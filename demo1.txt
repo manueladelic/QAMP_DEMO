@@ -1,3 +1,5 @@
 Neki tekst.
 Neki tekst2.
-Neki tekst 3.
+Neki tekst 3
+Nova linija koda
+Nova linija koda
