@@ -4,3 +4,4 @@ Neki tekst2.
 Neki tekst 3
 Nova linija koda
 Nova linija koda
+Neki novi tekst
